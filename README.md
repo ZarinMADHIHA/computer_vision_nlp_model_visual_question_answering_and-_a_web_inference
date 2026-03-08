@@ -1,5 +1,8 @@
 # Visual Question Answering (VQA) Fine-Tuning Project
 
+
+![Uploading Screenshot from 2026-03-08 19-58-29.png…]()
+
 ## Project Overview
 
 This project implements a complete pipeline for fine-tuning multimodal models (BLIP) on Visual Question Answering datasets. The system processes image-text pairs, trains models to answer questions about images, and evaluates performance using comprehensive metrics.
