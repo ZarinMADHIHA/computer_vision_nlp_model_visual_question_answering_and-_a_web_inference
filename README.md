@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a complete pipeline for fine-tuning multimodal models (BLIP/CLIP) on Visual Question Answering datasets. The system processes image-text pairs, trains models to answer questions about images, and evaluates performance using comprehensive metrics.
+This project implements a complete pipeline for fine-tuning multimodal models (BLIP) on Visual Question Answering datasets. The system processes image-text pairs, trains models to answer questions about images, and evaluates performance using comprehensive metrics.
 
 ## Features
 
