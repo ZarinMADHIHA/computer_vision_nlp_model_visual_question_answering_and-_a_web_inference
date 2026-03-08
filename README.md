@@ -1,10 +1,5 @@
 # Visual Question Answering (VQA) Fine-Tuning Project
 
-
-
-<img width="1933" height="1078" alt="Screenshot from 2026-03-08 19-58-29" src="https://github.com/user-attachments/assets/d46d69e8-e24d-4d67-be1e-8d625e1bb167" />
-
-
 ![Screencastfrom2026-03-0819-48-57-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3d79d812-886c-4956-a262-97adb37cff60)
 
 ## Project Overview
