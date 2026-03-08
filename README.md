@@ -1,6 +1,5 @@
 # Visual Question Answering (VQA) Fine-Tuning Project
 
-![Uploading Screenshot from 2026-03-08 19-58-29.png…]()
 
 
 
