@@ -1,6 +1,6 @@
 # Visual Question Answering (VQA) Fine-Tuning Project
 
-![Uploading Screencastfrom2026-03-0819-48-57online-video-cutter.com1-ezgif.com-video-to-gif-converter.gif…]()
+![Screencastfrom2026-03-0819-48-57online-video-cutter com1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dad49787-19f7-47da-8104-f715e17163a3)
 
 ## Project Overview
 
